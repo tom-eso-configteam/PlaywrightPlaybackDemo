@@ -7,7 +7,7 @@ const material = "177";
 const orderNumber = "4001844";
 const plant = "PB01";
 const storageLocation = "1000";
-const quantity = '1';
+const quantity = '5';
 
 test('TCTCPT2945 - General Posting UOM list logic fails', async ({ page }) => {
 
