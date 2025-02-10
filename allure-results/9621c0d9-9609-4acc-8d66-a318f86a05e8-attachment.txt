@@ -1,6 +1,0 @@
-Selected value: EA - each
-Reservation Value: 0000004481
-Item Number: 0005
-Lined selected is: Reservation0000004481Item0005
-Value from the second screen: EA - each
-The values match!
